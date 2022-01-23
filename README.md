@@ -5,4 +5,4 @@ I wrote a research-paper-like 'Belegarbeit' in german documenting the experiment
         
    • The optimization of the function CopyNetSeq2Seq._gather_final_log_probs.
    
-   • The training with bigger BERT encoders to analyse the performance gain as IMoJIE encodes the entire Input consisting of the input sentence and all extractions in every of at        most 10 iterations. With it I want to proof that the excecution time won't increase any further with larger BERT encoders and yield a significant performence boost. 
+   • The training with bigger BERT encoders to analyse the performance gain as IMoJIE encodes the entire Input consisting of the input sentence and all extractions so far for          every iteration. With it I want to proof that the excecution time won't increase any further with larger BERT encoders and yield a significant performence boost. 
