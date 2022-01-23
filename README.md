@@ -4,4 +4,5 @@ Based on the IMoJIE-Model [arXiv:2005.08178v1] [https://github.com/dair-iitd/imo
 I wrote a research-paper-like 'Belegarbeit' in german documenting the experiments which I release and plan to extend. Further topics will herein be:
         
    • The optimization of the function CopyNetSeq2Seq._gather_final_log_probs.
+   
    • The training with bigger BERT encoders to analyse the performance gain. With it I want to proof that the excecution time won't increase any further with larger BERT               encoders and yield a significant performence boost.
